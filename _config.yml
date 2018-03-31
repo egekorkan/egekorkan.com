@@ -1,32 +1,31 @@
-title: Wendell Thomas
+title: Ege Korkan
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/monday" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: ':title/'
-blog_theme: dark # Or use dark
+  Personal website for information on me, my projects, blog and contact info
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://egekorkan.com" # the base hostname & protocol for your site, e.g. http://example.com
+#permalink: ':title/'
+blog_theme: light # Or use dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
-about-description: # Add Discription
+name: Ege Korkan
+tagline: Research Associate
+about-description: Researcher at Technical University of Munich working on Web of Things concept of World Wide Web Consortium
 pic: DSC_6872.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+email: egekorkan@gmail.com # Add your Email address
+phone: +49 176 3012 6942 # Add your Phone number
+website: egekorkan.com # Add your website, do not add http://
+linkedin: ege-korkan # Add your Linkedin handle
+github: egekorkan # Add your Github handle
+twitter: '' # Add your Twitter handle
+xing: Ege_KORKAN
 
 # Tracker
 analytics:
 
 # Comments
-discus-identifier: # Add your Disqus identifier
+discus-identifier: egekorkan # Add your Disqus identifier
 
 # Important settings
 assets:

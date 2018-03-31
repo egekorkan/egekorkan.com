@@ -808,7 +808,8 @@ blockquote {
     max-width: 100%; }
 
 .about-description {
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  text-align: center; }
 
 .contact-list {
   list-style: none;

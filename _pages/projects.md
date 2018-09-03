@@ -5,13 +5,8 @@ comments: true
 permalink: /projects/
 ---
 
-asfasfasf
-a
-sd
-asd
-as
-da
-d
+### My projects are at the same time blog posts. This pages is a collection of these blog posts.
+
 https://download.schneider-electric.com/files?p_enDocType=User+guide&p_File_Id=5789811353&p_File_Name=EIO0000002472.00.pdf&p_Reference=EIO0000002472
 
 https://download.schneider-electric.com/files?p_enDocType=User+guide&p_File_Id=4192222649&p_File_Name=EIO0000002401.00.pdf&p_Reference=EIO0000002401
@@ -27,7 +22,7 @@ https://download.schneider-electric.com/files?p_enDocType=User+guide&p_File_Id=5
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.url = egekorkan.com;  // Replace PAGE_URL with your page's canonical URL variable
 this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */

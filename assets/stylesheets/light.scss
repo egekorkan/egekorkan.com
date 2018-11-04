@@ -32,6 +32,11 @@ $about-tagline-color: $gray-300;
 $about-tagline-border: $gray-200;
 $border-color: $white;
 
+// Project colors
+$project-box-background: $white;
+$project-link-color: $gray-500;
+$project-item-border: $gray-200;
+$project-container-background: $white;
 
 // Blog colors
 $post-box-background: $white;
@@ -65,3 +70,4 @@ $highlight-background: $gray-100;
 @import "modules/post";
 @import "modules/footer";
 @import "modules/media";
+@import "modules/projects";

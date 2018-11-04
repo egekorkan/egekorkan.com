@@ -22,18 +22,19 @@ twitter: '' # Add your Twitter handle
 xing: Ege_KORKAN
 
 # Tracker
-analytics:
+analytics: UA-127312090-2
 
 # Comments
 discus-identifier: egekorkan # Add your Disqus identifier
 
 # Important settings
-assets:
+assets: 
   sources:
     - assets/fonts
     - assets/img
     - assets/js
     - assets/stylesheets
+    - assets/bibtexs
 
 # Build settings
 exclude:

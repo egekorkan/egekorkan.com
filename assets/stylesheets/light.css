@@ -853,6 +853,30 @@ blockquote {
         .post-list .post-item .post-header .post-link:hover i.fa-long-arrow-right {
           transform: translateX(7px);
           transition: all .2s; }
+.project-box {
+  margin: 0 1rem;
+  padding: 2rem;
+  background-color: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); }
+
+.project-list {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  .project-list .project-item {
+    position: relative;
+    display: block;
+    padding: 2.5rem 0;
+    border-bottom: 1px solid #c7c7c7; }
+    .project-list .project-item .project-header .project-link {
+      text-decoration: none;
+      color: #272727;
+      transition: all .3s; }
+      .project-list .project-item .project-header .project-link:hover {
+        opacity: .7; }
+        .project-list .project-item .project-header .project-link:hover i.fa-long-arrow-right i.fa-arrow-right {
+          transform: translateX(7px);
+          transition: all .2s; }
 
 .rss-subscribe {
   color: #ffffff;

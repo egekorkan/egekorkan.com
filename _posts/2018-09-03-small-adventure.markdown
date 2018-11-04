@@ -2,6 +2,8 @@
 layout: post
 title:  "Small adventure on creating this website"
 date:   2018-09-03 
+description: Story on how this website came to existence
+comments: true
 ---
 
 This website was a long project in the making. Not that I spent a lot of time on perfecting *this* website but it was more of a learning process.

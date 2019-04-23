@@ -14,7 +14,7 @@ permalink: /publications/
 
     <ul>
 
-    <li> Ege Korkan, Sebastian Käbisch, Matthias Kovatsch, Sebastian Steinhorst. "Sequential Behavioral Modeling for Scalable IoT Devices and Systems". In: 2018 Forum on specification and Design Languages (FDL). Germany. <a href="/assets/bibtexs/fdl2018.bib"><img src="/assets/img/bibtex.png" alt="Flower"></a> </li>
+    <li> <b>Ege Korkan</b>, Sebastian Käbisch, Matthias Kovatsch, Sebastian Steinhorst. "Sequential Behavioral Modeling for Scalable IoT Devices and Systems". In: 2018 Forum on specification and Design Languages (FDL). Germany. <a  href="http://dx.doi.org/10.1109/FDL.2018.8524065"> DOI: 10.1109/FDL.2018.8524065 </a>  <a href="/assets/bibtexs/fdl2018.bib"><img src="/assets/img/bibtex.png"></a> <a href="/assets/pdfs/2018-FDL-SequentialBehavioralModelingforScalableIoTDevicesandSystems.pdf"><img src="/assets/img/pdf.png"></a> </li>
 
     </ul>
 

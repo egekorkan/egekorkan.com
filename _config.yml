@@ -10,7 +10,7 @@ blog_theme: light # Or use dark
 name: Ege Korkan
 tagline: Research Associate
 about-description: Researcher at Technical University of Munich working on the Web of Things standards of World Wide Web Consortium
-pic: 20181014_0372.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: myPic.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: egekorkan@gmail.com # Add your Email address

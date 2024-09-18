@@ -231,11 +231,11 @@
   ],
   "worksFor": [
     {
-      "companyName": "Publicis Sapient",
-      "title": "Senior Manager Experience Engineering",
-      "time_start": "Apr 2012",
+      "companyName": "Siemens AG",
+      "title": "Research and Development Engineer",
+      "time_start": "Dec 2017",
       "time_end": "Present",
-      "link": "https://www.publicissapient.com/",
+      "link": "https://www.siemens.com/",
       "address": {
         "streetAddress": "Demo street 1",
         "addressLocality": "Frankfurt am Main",
@@ -248,14 +248,33 @@
   ],
   "alumniOf": [
     {
-      "org": "University",
-      "certification": "Master of Computer Applications",
-      "year_start": "2006",
-      "year_end": "2009",
+      "org": "Technical University of Munich",
+      "certification": "Doctor of Engineering",
+      "year_start": "2017",
+      "year_end": "2024",
       "address": {
-        "addressLocality": "Amritsar",
-        "addressRegion": "Punjab",
-        "addressCountry": "India"
+        "addressLocality": "Munich",
+        "addressCountry": "Germany"
+      }
+    },
+    {
+      "org": "INSA de Lyon",
+      "certification": "Diplome d'Ingenieur (Bachelor + Master)",
+      "year_start": "2012",
+      "year_end": "2017",
+      "address": {
+        "addressLocality": "Lyon",
+        "addressCountry": "France"
+      }
+    },
+    {
+      "org": "Tevfik Fikret High School",
+      "certification": "High School Degree in Science and Maths",
+      "year_start": "2008",
+      "year_end": "2012",
+      "address": {
+        "addressLocality": "Ankara",
+        "addressCountry": "Turkey"
       }
     }
   ],

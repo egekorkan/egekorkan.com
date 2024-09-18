@@ -3,7 +3,7 @@ module.exports = {
   content: ["./src/**/*.{njk,md}", "./src/**/*.svg"],
   theme: {
     extend: {
-      colors: {
+      colors: { //FIXME: change to different colors
         husky: {
           50: "#fffbeb",
           100: "#fef3c7",
